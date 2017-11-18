@@ -1,0 +1,7 @@
+print ("I will count my chickens")
+print ("Roasters:", 100 - 25 * 3 % 4)
+print ("Now I will coun the eggs")
+print (3 * 5 * 7)
+print ("Is it true that 3 + 2 < 5 - 7")
+print (3 + 2 < 5 - 7)
+print ("What is  3 + 2 ?:", 3 + 2)

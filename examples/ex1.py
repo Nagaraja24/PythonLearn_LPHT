@@ -1,0 +1,6 @@
+
+# A comment 
+# Anything after # is ignored
+#print ("Hello World")
+print ("Hello Again")
+print ("I like typing this")
