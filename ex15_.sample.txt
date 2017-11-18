@@ -1,3 +1,0 @@
-This is sample text
-for testing the read
-operation in python
